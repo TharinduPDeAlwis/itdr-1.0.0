@@ -1,8 +1,11 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/TharinduPDeAlwis/itdr/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Overview
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"itdr" is a system for estimating a basis of the central and central mean subspaces in regression by using integral transformation methods. This "vignette" demonstrate the usage of functions in `itdr` package over "automobile" and "PDB" datasets.
+
+## Chapter 1: Installation 
+### 1.1: Install `itdr` package
 
 ### Markdown
 
