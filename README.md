@@ -204,6 +204,3 @@ _The Annals of Statitics_, 30, 455-474.
 An Integral Transform Method for Estimating the Central Mean and Central Subspaces. _Journal of Multivariate Analysis_. 101, 271--290.
  
 * Zhu Y. and Zeng P. (2006). Fourier Methods for Estimating the Central Subspace and Central Mean Subspace in Regression. _Journal of the American Statistical Association_. 101, 1638--1651.
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
